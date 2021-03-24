@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#private data
+company_data/
+
 # C extensions
 *.so
 
