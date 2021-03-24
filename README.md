@@ -1,4 +1,4 @@
 # playgit readme
 
 hello world
-I am on dtree branch
+This is something useful for all branches
